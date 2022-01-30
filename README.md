@@ -4,6 +4,7 @@
 ## NUMBA is good calculation wrapper. <br>
 
 ## Info from NUMDA site.<br>
+<link>https://numba.readthedocs.io/en/stable/cuda/index.html</link><br>
 ## NUMBA like np.array and don't like pandas.<br>
 ## Test JIT numba compillation and cashe second start.<br>
 ## NUMBA is good calculation wrapper. The efficiency of DevOps or loader is not surprising!<br>
