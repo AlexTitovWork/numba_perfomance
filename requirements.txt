@@ -1,4 +1,4 @@
 numba
-Pillow
-numpy
+Pillow==5.1.0
+numpy==1.15.4
 matplotlib
