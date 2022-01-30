@@ -21,10 +21,10 @@ this is a fall back mode for the @jit decorator if nopython=True is not set (as 
 In this mode Numba will identify loops that it can compile and compile those into functions that run in machine code,<br>
 and it will run the rest of the code in the interpreter. For best performance avoid using this mode!<br>
 """
-USAGE: <br>
+###USAGE: <br>
 python compare_perfomance_py_vs_numba.py<br>
 
-RESULT: <br>
+###RESULT: <br>
 Image loading time (with compilation) = 2.229041337966919<br>
 
 Elapsed (with compilation) = 1.7185752391815186<br>
