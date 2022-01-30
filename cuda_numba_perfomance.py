@@ -1,11 +1,12 @@
 """Test CUDA perfomance and features using python wrapper - NUMBA"""
 '''Test for profiling'''
-#  Test from command line:
+# Test from command line:
 # 
-#  time python ./numba_perfomance_estimate/perfomance_estimation.py 
+# time python3 compare_perfomance_py_vs_numba.py
+# python3 cuda_numba_perfomance.py 
 # 
 # Using profile command with summary time report
-# python -m cProfile -o ./numba_perfomance_estimate/profile.txt ./numba_perfomance_estimate/perfomance_estimation.py
+# python -m cProfile -o ./profile.txt ./perfomance_estimation.py
 
 
 from numba import cuda

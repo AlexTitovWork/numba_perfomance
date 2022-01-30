@@ -5,7 +5,8 @@ from PIL import Image
 from numpy import linalg as LA
 import matplotlib.pyplot as plt
 # @created by Alex Titov
-
+# usage:
+# time python3 compare_perfomance_py_vs_numba.py
 # NUMBA like np.array and don't like pandas
 # Test JIT numba compillation and cashe second start.
 # NUMBA is good calculation wrapper. The efficiency of DevOps or loader is not surprising!
