@@ -29,13 +29,13 @@ or<br>
 Test for CUDA.JIT:<br>
 python3 cuda_numba_perfomance.py <br>
 
-### RESULT: <br>
+#### RESULT: <br>
 Image loading time (with compilation) = 2.229041337966919<br>
-  On local machine GTX 850 <br>
-NVIDIA-SMI 495.29.05    Driver Version: 495.29.05    CUDA Version: 11.5  <br>
-### Elapsed (with compilation) = 1.7185752391815186<br>
-### Elapsed (after compilation) = 4.100799560546875e-05<br>
-### Elapsed (after compilation and caching) = 2.86102294921875e-05 <br>
+### On local machine GTX 850 <br>
+### NVIDIA-SMI 495.29.05    Driver Version: 495.29.05    CUDA Version: 11.5  <br>
+#### Elapsed (with compilation) = 1.7185752391815186<br>
+#### Elapsed (after compilation) = 4.100799560546875e-05<br>
+#### Elapsed (after compilation and caching) = 2.86102294921875e-05 <br>
 
 Diagonal:<br>
 [103. 104. 104. 104. 104.]<br>
@@ -49,10 +49,10 @@ Eigen value:<br>
 [ 5.20203783e+02 -2.84054242e+00  1.71715708e+00 -8.03980207e-02
   4.62287827e-14]<br>
 <br>
-  On server machine GeForce RTX 2080 <br>
-NVIDIA-SMI 460.91.03    Driver Version: 460.91.03    CUDA Version: 11.2 <br>
+###  On server machine GeForce RTX 2080 <br>
+###NVIDIA-SMI 460.91.03    Driver Version: 460.91.03    CUDA Version: 11.2 <br>
 <br>
-### Elapsed (with compilation) = 1.0186493396759033<br>
-### Elapsed (after compilation) = 1.1444091796875e-05<br>
-### Elapsed (after compilation and caching) = 8.58306884765625e-06 <br>
+#### Elapsed (with compilation) = 1.0186493396759033<br>
+#### Elapsed (after compilation) = 1.1444091796875e-05<br>
+#### Elapsed (after compilation and caching) = 8.58306884765625e-06 <br>
 
