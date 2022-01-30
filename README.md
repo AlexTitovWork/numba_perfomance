@@ -1,12 +1,12 @@
 # numba_perfomance <br>
-Project to test the performance of NUMBA and JIT-compilation.<br>
-NUMBA is good calculation wrapper. <br>
-# @created by Alex Titov<br>
+# Project to test the performance of NUMBA and JIT-compilation.<br>
+# NUMBA is good calculation wrapper. <br>
+## @created by Alex Titov<br>
 
-# Info from NUMDA site.<br>
-# NUMBA like np.array and don't like pandas.<br>
-# Test JIT numba compillation and cashe second start.<br>
-# NUMBA is good calculation wrapper. The efficiency of DevOps or loader is not surprising!<br>
+## Info from NUMDA site.<br>
+## NUMBA like np.array and don't like pandas.<br>
+## Test JIT numba compillation and cashe second start.<br>
+## NUMBA is good calculation wrapper. The efficiency of DevOps or loader is not surprising!<br>
 """
 What is nopython mode?<br>
 
