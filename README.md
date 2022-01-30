@@ -1,4 +1,5 @@
 # numba_perfomance <br>
+Project to test the performance of NUMBA and JIT-compilation.<br>
 NUMBA is good calculation wrapper. <br>
 # @created by Alex Titov<br>
 
