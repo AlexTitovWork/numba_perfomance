@@ -1,7 +1,7 @@
-# numba_perfomance <br>
 # Project to test the performance of NUMBA and JIT-compilation.<br>
-# NUMBA is good calculation wrapper. <br>
-## @created by Alex Titov<br>
+### numba_perfomance <br>
+### @created by Alex Titov<br>
+## NUMBA is good calculation wrapper. <br>
 
 ## Info from NUMDA site.<br>
 ## NUMBA like np.array and don't like pandas.<br>
