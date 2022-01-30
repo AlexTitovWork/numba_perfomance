@@ -1,15 +1,13 @@
 # Project to test the performance of NUMBA and JIT-compilation.<br>
 ### numba_perfomance <br>
-### @created by Alex Titov<br>
+### @created by Alex Titov( @AlexTitovWork)<br>
 ## NUMBA is good calculation wrapper. <br>
 
 ## Info from NUMDA site.<br>
 ## NUMBA like np.array and don't like pandas.<br>
 ## Test JIT numba compillation and cashe second start.<br>
 ## NUMBA is good calculation wrapper. The efficiency of DevOps or loader is not surprising!<br>
-"""
 What is nopython mode?<br>
-
 The Numba @jit decorator fundamentally operates in two compilation modes, nopython mode and object mode. <br>
 In the go_fast example above, nopython=True is set in the @jit decorator, <br>
 this is instructing Numba to operate in nopython mode. <br>
@@ -20,11 +18,10 @@ Should the compilation in nopython mode fail, Numba can compile using object mod
 this is a fall back mode for the @jit decorator if nopython=True is not set (as seen in the use_pandas example above).<br>
 In this mode Numba will identify loops that it can compile and compile those into functions that run in machine code,<br>
 and it will run the rest of the code in the interpreter. For best performance avoid using this mode!<br>
-"""
-###USAGE: <br>
+### USAGE: <br>
 python compare_perfomance_py_vs_numba.py<br>
 
-###RESULT: <br>
+### RESULT: <br>
 Image loading time (with compilation) = 2.229041337966919<br>
 
 Elapsed (with compilation) = 1.7185752391815186<br>
