@@ -24,9 +24,9 @@ python compare_perfomance_py_vs_numba.py<br>
 ### RESULT: <br>
 Image loading time (with compilation) = 2.229041337966919<br>
 
-Elapsed (with compilation) = 1.7185752391815186<br>
-Elapsed (after compilation) = 4.100799560546875e-05<br>
-Elapsed (after compilation and caching) = 2.86102294921875e-05 <br>
+### Elapsed (with compilation) = 1.7185752391815186<br>
+### Elapsed (after compilation) = 4.100799560546875e-05<br>
+### Elapsed (after compilation and caching) = 2.86102294921875e-05 <br>
 
 Diagonal:<br>
 [103. 104. 104. 104. 104.]<br>
