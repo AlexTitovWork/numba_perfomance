@@ -41,7 +41,7 @@ def do_it_fast(a, at):  # Function is compiled and runs in machine code
 def test():
     start = time.time()
 
-    image = Image.open("./numba_perfomance/style2.png")
+    image = Image.open("./style2.png")
     # plt.imshow(image, cmap='hot')
 
     # Size of the image in pixels (size of original image)
