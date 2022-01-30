@@ -48,10 +48,10 @@ Invert matrix:<br>
 Eigen value:<br>
 [ 5.20203783e+02 -2.84054242e+00  1.71715708e+00 -8.03980207e-02
   4.62287827e-14]<br>
-<br>
+
 ###  On server machine GeForce RTX 2080 <br>
 ### NVIDIA-SMI 460.91.03    Driver Version: 460.91.03    CUDA Version: 11.2 <br>
-<br>
+
 #### Elapsed (with compilation) = 1.0186493396759033<br>
 #### Elapsed (after compilation) = 1.1444091796875e-05<br>
 #### Elapsed (after compilation and caching) = 8.58306884765625e-06 <br>
