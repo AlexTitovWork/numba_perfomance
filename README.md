@@ -50,7 +50,7 @@ Eigen value:<br>
   4.62287827e-14]<br>
 <br>
 ###  On server machine GeForce RTX 2080 <br>
-###NVIDIA-SMI 460.91.03    Driver Version: 460.91.03    CUDA Version: 11.2 <br>
+### NVIDIA-SMI 460.91.03    Driver Version: 460.91.03    CUDA Version: 11.2 <br>
 <br>
 #### Elapsed (with compilation) = 1.0186493396759033<br>
 #### Elapsed (after compilation) = 1.1444091796875e-05<br>
