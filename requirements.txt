@@ -2,3 +2,4 @@ numba
 Pillow==5.1.0
 numpy==1.15.4
 matplotlib
+scipy==1.4.1
